@@ -65,4 +65,4 @@ This project is just the beginning! Here are some ideas for future enhancements:
 For any inquiries or contributions, feel free to reach out to me:
 
 - **GitHub**: [vijaysingdobhal](https://github.com/vijaysingdobhal)
-- **Email**: [your.email@example.com](vijaysingdobhal1707@gmail.com)
+- **Email**: [vijaysingdobhal1707@gmail.com ](vijaysingdobhal1707@gmail.com)
